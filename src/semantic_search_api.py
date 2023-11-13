@@ -9,12 +9,12 @@ import json
 # what are you looking for.
 # exact searches for a term or set of terms must
 # be enclosed with escaped quotation marks
-query = "immune system immunology"
+query = "immune system"
 
 # fields to retrieve
 fields = "title,abstract,isOpenAccess"
 # querying from 2010 and onwards result in 100-200k papers, which creates a file too large for github
-url = f"http://api.semanticscholar.org/graph/v1/paper/search/bulk?query={query}&fields={fields}&year=2015-"
+url = f"http://api.semanticscholar.org/graph/v1/paper/search/bulk?query={query}&fields={fields}&year=2005-"
 r = requests.get(url).json()
 total_docs = r['total']
 print(f"Will retrieve an estimated {r['total']} documents")
