@@ -1,3 +1,4 @@
+from sys import argv
 import numpy as np 
 import torch
 import pandas as pd 
@@ -55,15 +56,39 @@ def split_into_sentences(text: str) -> list[str]:
     if sentences and not sentences[-1]: sentences = sentences[:-1]
     return sentences
 
-def main():
+
+def bert_encode_contexts():
+    context_words = [ "invaders", "soldiers", "attack", "invasion", "kill", "foreign", "battle", "weapons", "destroy", "self/other", "sense", "detect", "signal", "memory", "transmit", "respond", "send", "observe" ]
+    context_words = pd.Series(context_words)
+    model_class, tokenizer_class, pretrained_weights = (ppb.BertModel, ppb.BertTokenizer, 'bert-base-uncased')
+    tokenizer = tokenizer_class.from_pretrained(pretrained_weights)
+    model = model_class.from_pretrained(pretrained_weights)
+    tokenized = context_words.apply((lambda x: tokenizer.encode(x, padding=True, truncation=True, add_special_tokens=True)))
+    print(tokenized)
+    max_len = 0
+    for i in tokenized.values:
+        if len(i) > max_len:
+            max_len = len(i)
+    padded = np.array([i + [0]*(max_len-len(i)) for i in tokenized.values])
+    attention_mask = np.where(padded != 0, 1, 0)
+    input_ids = torch.tensor(padded)  
+    attention_mask = torch.tensor(attention_mask)
+
+    with torch.no_grad():
+        last_hidden_states = model(input_ids, attention_mask=attention_mask)
+    bert_encoded_context_words = last_hidden_states[0][:,0,:].numpy()
+    with open('bert_encoded_contexts.npy', 'wb') as file:
+        np.save(file,bert_encoded_context_words)
+
+def bert_encode_abstracts():
     # Reading abstracts and converting into list of sentences
     df = pd.read_json("../data/paper_abstracts.json", orient='records')
     abstracts = df["abstract"]
     abstracts = abstracts.iloc[:100] #Using 1000 abstracts for speed's sake
     list_of_sentences = [ split_into_sentences(x.lower()) for x in abstracts]  
     sentences = pd.Series(list(itertools.chain.from_iterable(list_of_sentences)))
-    
-    # BERT Steps
+
+    #TODO: Add concept words for this part
     model_class, tokenizer_class, pretrained_weights = (ppb.BertModel, ppb.BertTokenizer, 'bert-base-uncased')
     tokenizer = tokenizer_class.from_pretrained(pretrained_weights)
     model = model_class.from_pretrained(pretrained_weights)
@@ -84,6 +109,9 @@ def main():
     with open('bert_encoded_sentences.npy', 'wb') as file:
         np.save(file,bert_encoded_sentences)
 
+def main():
+    bert_encode_contexts()
+    return
 
 
     return
