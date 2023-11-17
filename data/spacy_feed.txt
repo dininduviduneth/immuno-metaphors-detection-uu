@@ -1,0 +1,252 @@
+embryos express paternal antigens that are foreign to the mother, but the mother provides a special immune milieu at the fetal-maternal interface to permit rather than reject the embryo growth in the uterus until parturition by establishing precise crosstalk between the mother and the fetus.
+successful pregnancy requires the maternal immune system to tolerate the semi-allogeneic fetus.
+a failure in immune tolerance may result in abnormal pregnancies, such as recurrent spontaneous abortion.
+additionally, the implanted cf-vad likely stimulates the body9s natural innate immune response to a foreign object.
+as the only exception to the traditional immunological principles, maternal-fetal tolerance has always been the focus of attention in the fields of reproductive immunology.
+an improved mechanistic understanding of maternal-fetal tolerance is emerging during the last century.
+i illustrate here how this has occurred in the context of a central question of immunology: what determines the class of immunity induced, cell-mediated immunity or antibodies, when a foreign antigen impinges upon a person or animal?
+however, hla-c and hla-g, highly expressed on evt cells, can elicit a direct tolerant response by nk cells in most cases.
+furthermore, maternal immune cells could be educated by embryonic trophoblasts to develop a unique phenotype and tolerate the fetus.
+the immune system is composed of organs, tissues, and cells tasked with providing protection from invading pathogens.
+apart from nutritive and endocrine functions, dscs are believed to be involved in many immune activities, such as cytokine production and antigen presentation, and regulate the decidual immune responses that may lead to either a successful pregnancy or miscarriage.
+howerer, there are still unanswered questions in the maintenance of pregnancy, including the poorly understood phenomenon of maternal tolerance to the allogeneic conceptus, and the remarkable biological roles of placental trophoblasts that invade the uterine wall and decidual stromal cells which are the largest number of cells in the decidua.
+with a view at minimizing the side effects of a treatment that employs a drug combination designed to attack the hiv at various stages of its life cycle, we introduce control variables that represent the infected patient’s medication.
+nevertheless, recent advances in molecular biology have dramatically enhanced our knowledge of the immunobiology of the maternal-fetal interface.
+insights into maternal-fetal tolerance will not only advance our understanding of normal pregnancy but also may be helpful on how immune tolerance can be applied in therapeutic strategies to prevent pregnancy loss.
+the results indicate that the dynamic response of t cells following foreign or self-antigen stimulation behaves as a naturally occurring switched control law.
+osteomyelitis is a challenging diagnosis for a neonate.
+it might result from hematogenous spread or direct extension of a skin infection.
+during the first world war, it was used by the germans against post-traumatic gas gangrene in their soldiers and since then many authors analyze ozone as a therapeutic method associated with minimally invasive techniques.
+preterm infants are at high risk for osteomyelitis because of their immature immune system, hypogammaglobulinemia, frequent blood draws, and invasive monitoring and procedures.
+we report a case of a male neonate born at 29 weeks by cesarean section, requiring intubation and transfer to the neonatal intensive care unit (nicu).
+at the same time, this has led to the proposal of a new model of osseointegration, the foreign body equilibrium (fbe).
+four days later (34 + 4 weeks), a left inguinal abscess was noticed, which grew enterococcus faecium on drainage, which is considered a contaminant initially, but one week later, another left-sided inguinal abscess was noticed growing e. faecium, and the patient was subsequently treated with linezolid.
+immunoglobulin levels were found to be low for igg and iga.
+according to bretscher's threshold hypothesis, a low antigen dose or low degree of foreignness results in th1 immunity whereas a high antigen dose or high degree of foreignness induces th2 responses.
+the patient received seven weeks of antibiotics targeting methicillin-sensitive staphylococcus and three weeks of treatment with linezolid for an inguinal abscess.
+a repeat x-ray of the lower left extremity after the patient received one month of antibiotics in an outpatient setting showed no signs of acute osteomyelitis in the calcaneus.
+activation of the immune system requires the recognition of molecules as being foreign to the body.
+during the third trimester of pregnancy, the transfer of maternal igg across the placenta begins, leading to lower igg levels in premature infants and predisposing them to severe infections.
+the usual site of osteomyelitis is the metaphyseal region of the long bones, but any bone can be affected.
+the theory postulated that both the innate and adaptive immunity can respond, recognize and destroy the malignant cells.
+early x-rays can aid in diagnosis.
+antimicrobial treatment is frequently administered intravenously for two to three weeks and then switched to oral medication.
+in autoimmune diseases such as multiple sclerosis, the tcr erroneously recognizes selfpeptides as foreign and activates an immune response against healthy cells.
+it thus has long-term impacts on the health of both the woman and the child.
+knowledge is limited about the underlying mechanisms that enable the placenta to serve as a protective barrier for the fetus against infection.
+however, the large sequence space of foreign antigens presents an obstacle in the identification of cross-reactive peptides.
+method of study: to address the above questions, our research includes the use human placentas, primary human trophoblasts and immune cells derived from term placentas, cultured placental cells, trophoblast organoids, and mousemodels.
+results: we found that placentas from women who gave birth prematurely exhibit reduced autophagy activity.
+the origins of cancer immunotherapy date back more than 2 decades to when researchers explored ways to amplify the immune system to attack tumor cells.
+in a mouse model of pregnancy, we showed that placentas from mice deficient for atg16l1 were significantly less able to withstand infection, and the deficient mice gave birth prematurely upon an inflammatory stimulus.
+we have also shown that the autophagy pathway plays a key role in zikv vertical transmission from mother to fetus.
+iel are at the edge of the mucosal immune system and are therefore considered sentinels and early responders to microbial invaders.
+more recently, we have identified a small molecule inhibitor that targets the ns2b-ns3 protease of zikv and inhibits viral replication.
+it has recently become evident that sars-cov-2 infection is also associated with adverse outcomes for pregnant women, including preterm birth, preeclampsia, and fetal growth restriction.
+this review discusses recent advances to understand previously unidentified functions of adult mammalian lymphatic vessels, including immunosurveillance and immunomodulation upon pathogen invasion, transport of dietary fat, drainage of cerebrospinal fluid and aqueous humor, possible contributions toward neurodegenerative and neuroinflammatory diseases, and response to anticancer therapies.
+in new work, we are showing that sars-cov-2 non-structural proteins affect autophagy in different ways than in zika virus.
+finally, we have discovered that the maternal fetal interface of the placenta harbors intracellular resident microbes, and functionally demonstrated that they do not induce any inflammatory response or cell death but may promote immune tolerance and support normal pregnancy outcomes.
+the agent stimulates the body's immune system to recognize the agent as a threat, destroy it, and to further recognize and destroy any of the microorganisms associated with that agent that it may encounter in the future.
+our work has led to new insights into viral infections, showing how they co-opt host defenses, and that tolerance may have microbial drivers.
+we have shown how cellular pathways in the placenta such as autophagy and ras mechanistically regulate host defenses against pathogens, including zikv and sars-cov-2.
+recently, the key roles of mirna and lncrnas as regulators of the immune-response in cancer have progressively emerged, since they may act (i) by shaping the intrinsic tumor cell and microenvironment (tme) properties; (ii) by regulating angiogenesis, immune-escape, epithelial-to-mesenchymal transition, invasion, and drug resistance; and (iii) by acting as potential biomarkers for prognostic assessment and prediction of response to immunotherapy.
+checkpoint immunotherapy has shown encouraging yet limited success in non-small cell lung cancer (nsclc) patients.
+we combined multiplexed fluorescence imaging with quantitative spatial analysis to investigate antitumoral immunity in nsclc.
+we verified that the commonplaces in immunology teaching (student, teacher, subject \2013 knowledge/tbs, context - legal bases and curricular guidelines) adopted, in a similar and dominant form, an approach validated by the warlike metaphor to presentation and conception of his according to this, his plays a defensive role, aiming the protection of the organism against the invasion and/or attacks by foreign bodies of external origin to the system.
+mhc i-deficiency suggested nk cells may confer protection in nsclc.
+indeed, we found higher cd3 −cd56 +nk cell numbers were associated with both disease-free and overall survival.
+we synthesized current knowledge about unk cells, their involvement in reproduction and their main functions in placental vascular remodeling and trophoblast invasion.
+quantitative spatial characterization of tumor cell mhc i expression revealed vast intra- and inter-tumoral heterogeneity, which was highly associated with the local lymphocyte landscape.
+to infer functional differences in local cell-cell communication, we built computational models based on spatial single cell neighborhood profiles to discriminate between ifng-disparate lymphocytes.
+élie metchnikoff (1845–1916), who was recruited by pasteur in 1888, demonstrated the existence of phagocytes that destroy microorganisms by ingestion.
+moreover, ifng +nk cells were unique in their capacity to also associate with mhc i −tumor cells.
+together these data implicate a key role for nk cells in recruiting and activating other lymphocytes in mhc i-bearing tumors, and further suggest nk cells may be key to developing effective therapies even in cd8 t cell refractory tumors.
+more recently it has been proposed that bacteria form the ecological first line of defense against “foreign” invaders and also serve to train the immune system as an acquired host defensive stimulus.
+............................................................................................................................. iii acknowledgements ............................................................................................................ iv list of tables ..................................................................................................................... ix list of figures ..................................................................................................................... x list of abbreviations ......................................................................................................... xi chapter 1 literature review and introduction ................................................................... 1 1.1 the gastrointestinal tract (git) ................................................................................. 1 1.1.1 the colonic mucosa ............................................................................................ 1 1.2 mucosal immunology ................................................................................................ 3 1.2.1 innate immunity .................................................................................................. 4 1.2.2 adaptive immunity ............................................................................................. 7 1.2.3 signaling molecules ............................................................................................ 9 1.2.4 microbe-immune system interaction ................................................................ 10 1.3 immune dysfunction ................................................................................................ 11 1.3.1 cost of immune dysfunction............................................................................. 13 1.3.2 current solutions .............................................................................................. 14 1.4 microbe intervention ............................................................................................... 15 1.4.1 prebiotics .......................................................................................................... 15 1.4.2 probiotics .......................................................................................................... 16 1.4.3 synbiotics ......................................................................................................... 16 1.5 bioengineering ........................................................................................................ 17 1.5.1 e. coli ................................................................................................................ 18
+marek’s disease virus (mdv) gx0101 is a field strain of mdv with a naturally occurring insertion of the reticuloendotheliosis virus (rev) long terminal repeat (ltr) fragment.
+their second face is crucial in maintaining physiological gestation—unk cells show critical immunomodulatory functions with the potential to control embryo implantation and trophoblast invasion, regulate placental vascular remodeling, and promote embryonic/fetal growth.
+in the present study, the bac sequences in sc9-1 were removed using a cre-loxp system, and the virus termed sc9-2.
+sc9-2 showed a significant increase in replication in vitro and in vivo.
+the results show that the intrusion detection based on amcs provides a higher detection rate of dos attack, a lower false alarm rate, and a lower detectors generation cost.
+the immune protection index of sc9-2 was similar to that of sc9-1, and the difference was not significant.
+the results of our studies demonstrate that the sc9-2 virus provides protection in specific pathogen free (spf) chickens when challenged with a very virulent mdv rmd5, but it induces immunosuppressive effects in spf chickens.
+there is currently no simple and clear definition of transgenic animals, often species that carry foreign genes and can be inherited and expressed.
+inkt cells recognize lipid antigens in a cd1d-dependent manner; their subsequent activation results in a rapid and specific downstream response, which enhances both innate and adaptive immunity.
+the capacity of inkt cells to modify the immune microenvironment influences the ability of the host to control tumor growth, making them an important population to be harnessed in the clinic for the development of anticancer therapeutics.
+however, due to the potential harm of marker genes, low random integration rate and poor stability of foreign genes and defective gene targeting technology, current transgenic methods including microinjection, nuclear transfer, sperm mediated can’t be applied in preparation of transgenic animals.
+in this masters of immunology article, we discuss these latest findings and summarize the major discoveries in inkt-cell biology, which have enabled the design of potent strategies for immune-mediated tumor destruction.
+cancer immunol res; 3(5); 425–35.
+these mechanisms are also involved in the rejection of transplanted organs, which are recognized as foreign by the recipient’s immune system.
+approximately 50% of cancer patients receive radiotherapy (rt) at some point throughout their treatment.
+nevertheless, rt alone does not often result in cures, making it necessary to develop new ways to enhance this treatment modality.
+the assumption that entities foreign to a specific organism should be rejected by its immune system, while self-entities do not trigger an immune response is challenged by the expanded immunotolerance observed in pregnancy.
+however, we believe that rt acts as a double-edged sword as it results in the infiltration of anti-tumor effector cells as well as myeloid cells associated with immunosuppression.
+one type of these myeloid cells, known as inflammatory monocytes (im), are precursors for many immunosuppressive cells and have been shown to promote the progression of cancer in various models.
+background the immune system plays a pivotal role in the initiation, evolution, invasion and metastasis of cancer.
+to explore this, we focused on the specific chemokine receptors ccr2 and ccr5 and the primary ligands for these receptors, ccl2 and ccl5 respectively, which are present on im and have been shown to play a role in the recruitment of myeloid cells into tissues and tumors alike.
+here, we locally treat syngeneic tumors in c57bl/6 mice with 15gy rt in order to study the role of ccl2+ccr5+ im after rt.
+melanoma cells respond to cd8+ t cell attack by upregulation of genes associated with antigen processing and presentation.
+we also demonstrate that rt subsequently induces the increase of ccr2+ ccr5+ monocytes in circulation as well as their increased infiltration intratumorally.
+therefore, we hypothesized that inhibiting the ccl2/ccr2 and ccl5/ccr5 axes and therefore blocking the infiltration of this potentially immunosuppressive cell population could improve the efficacy of rt.
+sometimes the immune system starts attacking other parts of the body, which can cause serious problems in the lungs, intestines, liver, hormone-making glands (like the thyroid), kidneys, the nervous system or other organs.
+furthermore, the anti-tumor effects of rt and the enhanced response afforded by ccr2/ccr5i is dependent on cd8+ t cells.
+these data suggest that inhibiting specific chemokine axes augments the anti-tumor effects of the adaptive arm of the immune system.
+immunotherapy based on the direct attack of tumor cells and the stimulation of an antitumor immune response may represent a novel strategy to control hcc recurrence and metastasis.
+citation format: kelli connolly, david linehan, scott gerber.
+enhancing radiotherapy by targeting inflammatory monocytes.
+the main functions of glial cells are to surround neurons, to supply nutrients and oxygen to neurons, to insulate one neuron from another and to destroy and remove the carcasses of dead neuron.
+in: proceedings of the aacr special conference on tumor immunology and immunotherapy; 2016 oct 20-23; boston, ma.
+philadelphia (pa): aacr; cancer immunol res 2017;5(3 suppl):abstract nr b01.
+in order to kill, cd8 t cells are equipped with weapons, which are called perforin and granzymes.
+the non-physiologic continuous blood flow of a vad (cf-vad) exposes blood and vasculature to abnormal shear stress and leads to a variety of hemostatic derangements that likely contribute to the development of bleeding complications, neurologic dysfunction and venous thromboembolism in these patients.
+previous studies have suggested thatanti-pf4/heparin antibodies [as targeted in a diagnosis of heparin-induced thrombocytopenia (hit)] can develop in the absence of heparin.
+it has also been demonstrated that therapies blocking this pathway are effective in increasing the antitumour immune response in a variety of cancers. 3 immune checkpoint inhibitors are applied to eliminate the ‘brakes’ on the immune system that can impede immune cells from attacking cancer cells, among them are those targeting programmed cell death 1 (pd-1) and cytotoxic t lymphocyte-associated protein 4 (ctla-4).4 in 2018, tasuku honjo and …
+this study evaluated the time course of anti-pf4/heparin titers in patients supported by cf-vads.
+methods: blood samples were collected from 13 randomly selected patients prior to implantation of a heartmate ii cf-vad and at routine clinic visits following implantation.
+results: we found that s-dab389mil-4 is highly potent against 4t1 cells in vitro (ic50 ranging from 10 pm to ~3 nm), and adversely affects 4t1 cell survival, proliferation, invasion, and migratory abilities.
+anti-pf4/heparin antibody titers were determined by the pf4 enhanced x-45 assay (immucor gti diagnostics, waukesha, wi).
+patients were treated with heparin at the time of implant; long-term anticoagulation was maintained with warfarin (inr 1.5-2.0) and low-dose aspirin.
+for instance, studies show that irradiated dying tumor cells release tumor antigens that can lead the immune system to a systemic anti-cancer attack throughout the body of cancer patient; targeted irradiation to solid tumor also increases the migration of tumor cells already in bloodstream, the seeds of potential metastasis.
+with increasing time post-implant, the median platelet count returned to pre-implant levels; no patients became thrombocytopenic.
+pre-implant, 6 of 13 patients had 9positive9 anti-pf4/heparin titers (od >0.4 using the hit criteria); the median od for all patients was 0.433.
+our results suggest that the invasion of tropical australia by cane toads has resulted in rapid genetically based compensatory shifts in the aspects of immune responses that are most compromised by the rigours of long-distance dispersal.
+at 1 month the median od was 0.54.
+by 2 months all patients had an od >0.4 with a median value of 0.82 (>0.750 is high clinical thrombosis risk using the hit criteria).
+in contrast to t cells and b cells, nk cells do not express the somatically rearranged clonotypic receptors allowing them to directly and specifically recognize foreign antigens.
+at 5 months and later od values >1.5 were common.
+od values >1.5 were present in some patients as early as 1 month post-implant.
+tumor invasion parameters were statistically dependent on the host-immune reaction.
+the above data shows that long-term implant of a cf-vad leads to the development of anti-pf4/heparin antibodies.
+such a response may result from shear-induced platelet activation and subsequent release of pf4.
+however, dysregulated pnk and unk cell proportions and cytotoxic activities have been associated with aberrant spiral artery remodeling and trophoblast invasion, leading to implantation failures and recurrent pregnancy losses (rpls).
+cf-vad-related infection may also contribute to the generation of anti-pf4/heparin antibodies as pf4 bound to bacteria has previously been shown to induce antibody formation (krauel et al, blood 2011).
+data from our lab has shown that patients with implanted cf-vads are frequently in heightened states of inflammation (ash 2016 abstract) with excessive levels of c-reactive protein in patients who develop pump thrombosis.
+: immunotherapy is a type of cancer treatment that aims to enhance the body's immune system to detect and destroy cancer cells.
+thus, it is plausible that the development of anti-pf4/heparin antibodies may be an indicator of an early activation mechanism of adverse events in cf-vad implanted patients through the cross-talk between the hemostatic and immune systems.
+larger studies are required to determine whether the presence of such antibodies confers any risk to lvad patients.
+multiple sclerosis (ms) is a chronic disease that is characterized by the inappropriate invasion of lymphocytes and monocytes into the central nervous system (cns), where they orchestrate the demyelination of axons, leading to physical and cognitive disability.
+disclosures no relevant conflicts of interest to declare.
+chronic spontaneous urticaria with angioedema is prevalent, affecting approximately 1% of the general population, and has a significant impact on quality of life, according to epidemiological data.
+and i will destroy any man who dares to abuse my trust, i promise that you will be mine (queen 1973) we begin and brief study with this song to illustrate in a simple and interesting way because aimunology itself is something extremely interesting the flagship the captain this boat will be the book cell and molecular immunology by abul k abbas, andrew h. liichtman and shiv pllai we will start from a hypothetical situation of a region injured by a piercing instrument that penetrates the skin layers and skeletal muscle tissues based on this arrangement as we will discuss in this case damps molecular patterns associated with damages and pamps molecular patterns associated with pathogens in this part of the study we stick to pathogens linked to amino acids and their formation in chains of proteins th1 and th2 that would be mechanisms of intracellular aggressions such as viruses and microbacteria and mechanisms that attack ectracellular cells like bacteria in the hypotonic situation ethics that we comment on an instrument any sharp drill when the layers of the cells the phosphopipidic layers are injured and all extracellular content moves to the extracellular medium begins with a response called innate or cellular that is given by immune cells intact as macrophages dendritic cells are very important in the presentation of phagocyte antigens also obviously to a perception of the central nervous system pain and a conscious state this information reaches the cerebral cortex pain and is detected by nociceptors in response the central nervous system releases substance p in this initiation of injury the cells begins an inflammatory process and the damaged cell members these phospholipids generate the cascade of arachidonic acid in this process if this injury is resolved everything is solved with the first phase of defense which is the innate or cellular system in case of intra or intra pathogens extracellular remains and start m a process of aggression to the organism starts the second part of the defense that is acquired that has review article borges; jamb, 21(6): 1-5, 2021; article no.jamb.67386 2 specific responses for extracellular and intra cellular pathogenic organisms the complementary immune system we did not address in this work this article is dedicated to my esteemed professors of the medical school são judas tadeu cubatão
+it is not easy to identify the cause of urticaria but appropriate steps to treat an underlying infection can, in some cases, improve the symptoms of urticaria and angioedema, reduce severity and duration, or lead to remission.
+although chronic spontaneous urticaria with angioedema is a multifactorial condition involving inflammation, autoimmunity, and coagulation, ige-mediated autoimmunity, or autoallergy, is thought to play a major role.
+this system detects a wide range of external biological influences, organisms will protect the body from infections, bacteria, viruses to parasites, and destroy other foreign substances and destroy them from healthy organism cells and tissues to continue to function as usual.
+it has become increasingly clear that mast cell roles in immune system responses are not limited to an allergic role; they are key players in protective immune responses, both innate and adaptive, to various pathogens and in defence of some infections.
+several guidelines, consensus papers, and practice parameters have been developed for the management of chronic urticaria.
+handling the cells with optical tweezers supports investigation on the attack of immune systems against diseased or cancerous cells.
+infections may be a cause, aggravating factor, or unassociated bystander in chronic urticaria.
+the author looked at evidence, using a keyword search, for the role of viral and bacterial infections in acute, acute recurrent, and chronic urticaria and angioedema, including covid-19, herpes, viral hepatitis, and helicobacter pylori.
+standard immunologic dogma holds that any foreign tissue will elicit an immune reaction.6 this concept is clearly evident in solid organ and hematopoietic transplantation, in which aggressive immunosuppression is the norm to protect allografts from rejection.6 as the field of cell-based therapy evolves, it has become evident that various cell types—mesenchymal stem cells (mscs) being the prototype—have sufficient ability to evade7 or suppress8 the immune system to the extent that they may be used as allografts without requiring concomitant immunosuppression.
+meth is a strong central nervous system (cns) stimulant that mimics the pharmacological effects of cocaine.
+meth abuse can also alter biological processes and immune functions necessary for host defense.
+surprisingly, this genome-wide screen identified dozens of new genes that potentially influence tumor cells’ susceptibility to t-cell attack.
+this complex could also be stimulated in microglia by interactions with pathogen‐associated molecular patterns (pamps) such as lipopolysaccharide (lps) resulting in neuroinflammation and neuronal damage.
+moreover, minocycline, a semi‐synthetic tetracycline derivative antimicrobial drug, inhibits microglial activation.
+these include vaccine approaches to elicit strong specific immune responses to tumor antigens such as wt-1, her2 and ny-eso-1, approaches involving adoptive transfer of in vitro-expanded, naturally arising or genetically engineered tumor-specific lymphocytes, therapeutic administration of monoclonal antibodies to target and eliminate tumor cells, and approaches that inhibit or destroy the molecular or cellular mediators of cancer-induced immunosuppression, such as ctla-4, pd-1 or treg cells.
+nr‐9460 cells, a murine microglial line derived from wild‐type mouse brain tissue, were treated with meth or minocycline for 2 h followed by incubation with lps for 24 h. then, flow cytometry, confocal microscopy, and western blot analyses were performed to determine the effect of meth on the expression of tlr4 receptors on microglia‐like cells.
+we found that meth alone increases the expression and distribution of tlr4 receptors on the surface of microglia‐like cells and changes the cellular morphology.
+the cellular components of innate immunity such as macrophages, dendritic cells and natural killer cells are first responders to any foreign intruders and initiate a sequence of primary responses including phagocytosis, or direct killing of modified self (tumor or cancerous) cells or inducing inflammation via various inflammatory mediator through complex cellular signaling pathways.
+our findings suggest that meth use may impair the cellular production of tlr4 in microglia.
+in fact, it is conceivable that meth interferes with the signaling pathways and inflammatory responses important to prevent and eradicate cns infection.
+however, its clinical use is limited by substantial cell loss after islet infusion, closely related to immune reactions, including instant blood-mediated inflammatory responses, oxidative stress, and direct autoimmune attack.
+we anticipate that our findings will result in a deeper understanding of neuroinflammation and cns microbial infection control in meth users.
+background: primary central nervous system lymphoma (pcnsl) is a rare b-cell lymphoma of central nervous system, which is often found in immunocompromised patients.
+adaptive immunity adaptive immunity, also called acquired or specific immunity, represents the part of the immune system that is able to specifically recognize and selectively eliminate foreign microorganism and molecules (antibodies) [6].it is important to note that the acquired immunity does not act independently of the innate.
+with the development of tumour immunology research, the tumour microenvironment of pcnsl is characterised by abnormal expression of different immune signature molecules and patients with pcnsl may benefit from tumour immunotherapy.
+methods: in our research, rna-seq data from 82 pcnsl patients were collated by mining the microarray data from the geo database.
+lymphocytes are critical “moving parts” of the dynamic defense system protecting us from invading pathogens and internal enemies.
+differential analysis of genes was used to uncover 2 sets of differential genes associated with tumour immunity.
+the ici scores of each sample were obtained by pca algorithm, and the relationship between ici scores and immune checkpoint expression, immunotherapy and drug sensitivity was investigated.
+hence, we hypothesize that tumor cells overexpress sialylated glycan structures in order to communicate with the immune system and to dampen immune attack.
+results: the tumour microenvironment in pcnsl has a greater relationship with the tumour immune response.
+ici scores obtained from 375 differential genes were associated with multiple immune responses in pcnsl.
+furthermore, to extend these data to other tumor types, we have benchmarked the foreign antigenic space in a variety of human cancers against a series of human pathogens.
+this study also identified 64 genes associated with ici scores, which may serve as important therapeutic and prognostic targets for pcnsl.
+conclusion: the presence of multiple immunosuppressive responses in the tumour microenvironment of pcnsl which suggested that improving the immune function of pcnsl patients through immunotherapy and targeted therapies can be an effective treatment for pcnsl.
+among various possible causes of autoimmune disease, an important role is played by infections that can result in a breakdown of immune tolerance, primarily through the mechanism of molecular mimicry, where the introduction of pathogenic peptides that structurally resemble self-peptides, derived from infection, may induce t lymphocytes to proliferate and leave them with the ability to respond to self, as well as foreign antigens.
+experimental and mathematical studies in immunology have revealed that the dynamics of the programmed t cell response to vigorous infection can be conveniently modelled using a sigmoidal or a discontinuous immune response function.
+this paper hypothesizes strong synergies between this existing work and the dynamical behaviour of engineering systems with a variable structure control (vsc) law.
+there can be no doubt that mobilizing the immune system to attack a cancer, remember the enemy, and continually target emerging clones represents an extremely promising path to cancer prevention and cure.
+it is shown that dynamical properties as well as conditions to analytically assess the transition from health to disease can be developed for the specific t cell response from the theory of variable structure control.
+in particular, it is shown that the robustness properties of the specific t cell response as observed in experiments can be explained analytically using a vsc perspective.
+the immune system of invertebrates acts through (i) cellular components (cell-mediated immunity) in which the effectors of defense reactions are represented by immune cells; (ii) soluble factors (humoral immunity), secreted by the immune cells, such as lectins, agglutinins, lysins, antimicrobial peptides and the prophenoloxidase (propo) activating system, which act in parallel with the immune cells to fight pathogens and other foreign substances.
+the findings demonstrate that studying the immune system using variable structure control theory provides a new framework for evaluating immunological dynamics and experimental observations.
+a modelling and simulation tool results with predictive capacity to determine how to modify the immune response to achieve healthy outcomes which may have application in drug development and vaccine design.
+the human innate immune system recognizes key components of the fungal cell wall as foreign resulting in a myriad of signaling cascades.
+methods: clinical data were collected and analyzed from patients with rag1 mutations who visited the department of clinical immunology, children's hospital of fudan university between october 2013 and june 2017.
+the data included clinical manifestations, immunophenotypes and genotypes.
+for instance, studies show that irradiated dying tumor
+cells release tumor antigens that can lead the immune system to a systemic anti-cancer attack throughout the body of cancer patient; targeted irradiation to solid tumor also increases the migration of tumor
+cells already in bloodstream, the seeds of potential metastasis.
+the minimum age of onset was 2 months, and the maximum age was 4 months.
+the minimum age of diagnosis was 2 months, and the maximum age was 13 years.
+after recognition by the immune system, tumours may be attacked by the immune system through immunosurveillance processes, with mucosal immunity representing the first line of defence, and cellular and humoral immunity also playing an important role in carcinogenesis and disease progression.
+two cases were born to the same consanguineous parents.
+all cases had recurrent infections, including involvement of respiratory tract (8 cases), digestive tract (6 cases), urinary tract (1 case), and central nervous system (1 case).
+simple summary immune checkpoint inhibitors (icis) are novel cancer therapeutics that address the immune system to attack malignancies.
+rotavirus was found in 3 cases, cytomegalovirus (cmv) in 5 cases, bacillus calmette-guérin adverse reaction in 2 cases (1 of whom had a positive acid-fast smear from lymph node puncture fluid), fungal infection in 3 cases.
+one case had multiple nodular space-occupying lesions in lungs and abdominal cavity complicated with multiple bone destruction.
+according to their schema, the hallmarks of cancer include sustained proliferation, evading growth suppressors, resisting cell death (apoptosis), enabling replicative immortality, inducing angiogenesis (formation of new blood vessels) and activating invasion and metastasis [1].
+eosinophilia was found in 3 cases (range, (0.48-1.69) ×10(9)/l).
+the patients were classified according to immunophenotype as severe combined immunodeficiency phenotype (4 cases), leaky severe combined immunodeficiency (2 cases), omenn syndrome (1 case) and combined immunodeficiency (1 case) .
+this brief overview is aimed at new researchers in cancer immunology seeking an overview of vaccine concepts to eradicate malignancy by provoking a selective immune attack.
+rag1 homozygous mutations were detected in 5 cases and rag1 compound heterozygous mutations in 3 cases.
+two novel mutations and six previously reported mutations were identified.
+briefly, the immunological consequences of fetal exposure to foreign antigens could be tolerogenic or immunogenic, relying upon the type or nature of antigens introduced.
+four cases died due to infections, and the 13 year-old patient was still under follow-up in the outpatient clinic.
+conclusions: different rag1 gene mutations can lead to diverse clinical presentations and immune phenotypes.
+after the bacteria were injected into a tumor, they stimulated a systemic antitumor immune response, successfully attacking not only the injected tumor but also any others found in the body.
+in that situation, immunological evaluation and gene detection should be performed as early as possible.
+s | adaptive and auto-immunity 019 vgll3 causes discoid lupus-like fibrosis in a mouse model of lupus 1,2 1 2,1 1 m gharaee-kermani , ac billi , jm kahlenberg and je gudjonsson 1 department of dermatology, university of michigan, ann arbor, michigan, united states and 2 internal medicine, university of michigan, ann arbor, michigan, united states fibrosis is an abnormal wound healing process characterized by collagen deposition, myofibroblast accumulation, and extracellular matrix remodeling.
+however, without the life-long administration of immunosuppressive drugs, the recipient’s immune system will launch a massive immune attack that will ultimately destroy the graft.
+skin and organ fibrosis is often associated with high morbidity and even mortality, and there is no effective treatment.
+recent work from our laboratory has shown that epidermal-directed overexpression of murine vgll3 causes severe lupus-like skin lesions reminiscent of discoid lupus erythematosus (dle), as well as systemic autoimmune disease with end-organ damage.
+immune checkpoint inhibitors (icis), as a novel immunotherapy, are designed to modulate the immune system to attack malignancies.
+we analyzed male and female tg and wild-type (wt) mice aged 2-3 months, comparing fibrotic biomarkers of human dle and scleroderma.
+here, we demonstrate that epidermal vgll3 overexpression causes development of not only cutaneous inflammation but also severe fibrosis.
+in the cytosol, cellular self and foreign (non-self) proteins are constantly being degraded; it is the peptides generated that are presented, non-covalently bound to mhc molecules, on the surface of cells for inspection by cytotoxic t-lymphocytes (ctls).
+the detection of high expression of ccn2 and tgfb1 as well as col1 mrna and protein in the skin of tg mice, as is seen in skin of human scleroderma and dle patients, suggests that skindirected overexpression of vgll3 may impact fibrosis development, and there may be a role for targeting ctgf in early autoimmune fibrosis.
+further studies will need to elucidate the specific mechanisms that may be at play.
+trends in vaccines and immunology, volume 1(2): 1–2, 2021 the trojan horse is a legendary figure of a wooden horse used by the greeks during the trojan war to invade and destroy the trojan city.
+our published work suggested an increased representation of ifn-g-producing, activated cd4 t cells in the skin-draining lymph nodes of aa mice when compared to unaffected (ua) controls.
+our objective was to determine the contribution of cd4 t cells to aa pathogenesis.
+bcrs (abs) and tcrs (or adaptive immune receptors [airs]) are the means by which the adaptive immune system recognizes foreign and self-antigens, playing an integral part in host defense, as well as the emergence of autoimmunity.
+to address the role cd4 t cells play in aa pathogenesis, we first sorted cd4 t cells and assessed their ability to induce aa.
+mouse recipients of in vitro expanded cd4 t cells isolated from the lns of aa mice developed aa at a substantially increased rate compared to mouse recipients of in vitro-expanded cd4 t cells from lns of ua mice.
+we used an ag microarray analysis to detect binding to a selection of 295 self-ags, compared with 27 standard foreign ags.
+using congenic markers, we found that the transferred cd4 t cells were present in the skin draining lns of recipient mice at three weeks following transfer but largely absent at 16 weeks, suggesting these cells may be conferring their effect early during disease development.
+additionally, we found that the cd4 t cell population is critically dependent on the presence of endogenous cd8 t cells in order to transfer disease.
+soon thereafter, researchers in the field of immunology began drawing parallels between the metabolic characteristics of highly proliferative cancer cells and those of immune cells that respond to perceived threats to host physiology by invading tissues, clonally expanding, and generating vast amounts of pro-inflammatory effector molecules to provide the host with protection.
+021 multidimensional in situ immune profiling of discoid and subacute cutaneous lupus erythematosus t vazquez, j patel, e keyes, d yan, d diaz, m bashir, r feng, m grinnell and vp werth 1 dermatology, corporal michael j. crescenz vamc, philadelphia, pennsylvania, united states and 2 dermatology, perelman school of medicine, philadelphia, pennsylvania, united states cutaneous lupus erythematosus (cle) can be subdivided into acute cutaneous (acle), subacute cutaneous (scle), and chronic cutaneous le (of which discoid lupus [dle] is the predominant subtype).
+previous studies using rna extracts or traditional immunostaining have demonstrated subtle differences between the subtypes; however, no multiplexed, singlecell analyses have been conducted.
+blocking these inhibitors unleashes t cells, freeing the body’s immune system to attack and destroy cancer cells.
+19 scle and 18 dle, treatment-naı̈ve ffpe biopsies were stained with 37 metalconjugated antibodies.
+slides were ablated on the hyperion imaging system (fluidigm).
+the traditional network security detection model use attack samples of known types to train the security detection model offline.
+significance was determined by the mann-whitney test, bivariate correlations were determined by pearson’s r. we found 9 unique populations consisting of dermal cd4 t, cd8 t, cd14+cd16+ macrophages, cd68+ macrophages, b cells, cd56+ cells, tregs, conventional dendritic cells (cdc), and plasmacytoid dendritic cells (pdc) with similar percentages between dle and scle (p>0.05).
+16 cytokines and phosphorylated inflammatory signaling pathways were included and the data revealed higher ptbk1 in dle compared to scle (p<0.05).
+in this paper, the integrated use of immunology theory and complex adaptive system theory and computational experiment technology, based on internet network layer security detection model of the immune system, existing internet network layer security, the new type of attack occurred in the process of on-line detection of immune learning, realize the dynamic extension of network security detection model, and through calculating experiment and example analysis verify the scientific nature and feasibility of the model.
+overall, these results suggest substantial overlap between dle and scle, with a potential role for ptkb1 and pirf3 in dle.
+future studies are needed to investigate the potential suitability of these pathways as targeted therapies for dle.
+both innate and adaptive immune defense mechanisms are tightly regulated, to avoid potentially harmful consequences such as tissue damage to the host, and to maintain tolerance to self as well as to harmless foreign antigens.
+however, the mechanisms by which bcl6 expression is regulated are poorly understood.
+ubiquitin-like with phd and ring finger domains 1 (uhrf1) is an important epigenetic factor that regulates dna methylation and histone modifications.
+recent data shows that pca tumors use lipid to grow and secrete signals that inactivate the immune cells, so they cannot expand, activate, and attack the tumors.
+results: compared to healthy controls, the mean fluorescence intensity of uhrf1 (uhrf1-mfi) in tfh cells from sle patients was significantly downregulated, whereas that of bcl6 (bcl6-mfi) was significantly upregulated.
+in vitro, uhrf1 knockdown led to bcl6 overexpression and promoted tfh cell differentiation.
+prior studies have also shown that mhc class i is down-regulated in 40-90% of adult cancer cases, making them resistant to an immune attack by ctls, and have indicated that mhc class i expression down-regulation is associated with poorer prognosis.
+in vivo, conditional uhrf1 gene knockout (uhrf1-cko) in mouse t cells revealed that uhrf1 depletion can enhance the proportion of tfh cells and induce an augmented gc reaction in mice treated with np-keyhole limpet hemocyanin (np-klh).
+mechanistically, uhrf1 downregulation can decrease dna methylation and h3k27 trimethylation (h3k27me3) levels in the bcl6 promoter region of tfh cells.
+the proteins expressed from the dna tumor viral genome [10] in the inoculated host animals are called tumor antigens, because they are recognized as foreign by the immune system, resulting in antiserum production.
+this finding reveals the role of uhrf1 in regulating tfh cell differentiation and provides a potential target for sle therapy.
+023 single-cell composition and architecture of cutaneous lupus ac billi, f ma, o plazyo, r wasikowski, m gharaee-kermani, a hurst, c dobry, l tsoi, m pellegrini, r modlin, je gudjonsson and jm kahlenberg 1 dermatology, university of michigan, ann arbor, michigan, united states, 2 molecular, cell, and developmental biology, university of california los angeles, los angeles, california, united states and 3 internal medicine, division of rheumatology, university of michigan, ann arbor, michigan, united states cutaneous lupus erythematosus (cle) is an incompletely understood autoimmune disease that can occur in isolation or in the context of systemic lupus erythematosus (sle).
+this requires the ability to exert control over immune cells in both intracellular compartments and various extracellular sites, such as the tumor microenvironment, in a spatiotemporally coordinated fashion.the immune system has evolved to sense and respond to nano- and microparticulates (e.g., viruses, bacteria) as foreign pathogens.
+further, evidence suggests skin inflammation in cle can provoke systemic autoimmune disease, including precipitating dangerous kidney inflammation.
+thus, understanding cle pathogenesis has great potential to alleviate lupus morbidity and even mortality.
+we observed at least 5‐fold upregulation in recipients transplanted with islets grafts from single (mx1) or double (c3, ccr8, il6, il13, irf6, cxcl10, and mx1) galt‐ko pigs after 77 days; single galt‐ko incurred early losses owing to immune attacks.
+7 patients with active cle were enrolled.
+6/7 carried a diagnosis of sle.
+a virus that attacked our own immune system, in order to replicate and spread, causing a unique and deadly disease.
+comparison to control cells derived from 14 healthy skin biopsies and pbmcs from 4 healthy donors revealed dramatic transcriptomic differences between healthy, nonlesional cle, and lesional cle keratinocytes, fibrob
+objective: the aim of our study was to examine immunoreactivity between aβp-42, toxic chemicals, and food proteins thatwould be involved in ad.
+for simplicity, we concentrated on humoral immunity and its major components: t cells, b cells, antibodies, interleukins, non-immune self cells, and foreign antigens.
