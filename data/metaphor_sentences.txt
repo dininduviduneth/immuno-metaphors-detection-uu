@@ -1,0 +1,19 @@
+While virusspecific antibodies are the assumed primary goal of vaccination, T cells, being longlived and capable of rapidly identifying and removing infected cells, are attractive soldiers to enlist. 
+T-cell receptor drives one of the most sophisticated weapons that the immune system has against pathogens. 
+In order to kill, CD8 T cells are equipped with weapons, which are called perforin and granzymes.
+Blocking these inhibitors unleashes T cells, freeing the body's immune system to attack and destroy cancer cells.
+The immune system has evolved to sense and respond to nano- and microparticulates (e.g., viruses, bacteria) as foreign pathogens.
+In particular, how different receptors at the surface of immune cells respond to the presence of either antigen or pathogen, and how these responses are regulated at a subcellular level.
+Consequently, CD8 T cells lost their ability to kill, as if they only had guns without the bullets.
+This system detects a wide range of external biological influences, organisms will protect the body from infections, bacteria, viruses to parasites, and destroy other foreign substances and destroy them from healthy organism cells and tissues to continue to function as usual.
+DCs sense microbial stimuli through pathogen-recognition receptors (PRRs) and decode, integrate, and present information derived from such stimuli to T cells, thus stimulating immune responses.
+As it protects against foreign pathogens and controls inflammation it eliminates certain tumour cells and, consequently, the link between immunosuppression and increased cancer risk is widely established.
+It has also got a varied arsenal of killing mechanisms to battle intruders and mutant cells.
+In the human body, the immune system acts as "the army" that fights against "the enemy" from outside.
+Macrophages are versatile, multitasking and very plastic components of the innate immune system.
+Development of the allogeneic fetus in the maternal uterus represents an immunological paradox.
+Successful pregnancy requires the maternal immune system to tolerate the semi-allogeneic fetus. 
+A failure in immune tolerance may result in abnormal pregnancies, such as recurrent spontaneous abortion. 
+These call for a better understanding of the mechanisms leading to maternal-fetal tolerance. 
+As the only exception to the traditional immunological principles, maternal-fetal tolerance has always been the focus of attention in the fields of reproductive immunology.
+

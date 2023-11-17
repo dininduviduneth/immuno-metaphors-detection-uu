@@ -1,0 +1,195 @@
+{
+  "annotations": [
+    [
+      "While virusspecific antibodies are the assumed primary goal of vaccination, T cells, being longlived and capable of rapidly identifying and removing infected cells, are attractive soldiers to enlist. ",
+      {
+        "entities": [
+          [
+            180,
+            188,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ],
+    [
+      "T-cell receptor drives one of the most sophisticated weapons that the immune system has against pathogens. ",
+      {
+        "entities": [
+          [
+            53,
+            60,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ],
+    [
+      "In order to kill, CD8 T cells are equipped with weapons, which are called perforin and granzymes.",
+      {
+        "entities": [
+          [
+            48,
+            55,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ],
+    [
+      "Blocking these inhibitors unleashes T cells, freeing the body's immune system to attack and destroy cancer cells.",
+      {
+        "entities": [
+          [
+            81,
+            87,
+            "METAPHOR"
+          ],
+          [
+            92,
+            99,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ],
+    [
+      "The immune system has evolved to sense and respond to nano- and microparticulates (e.g., viruses, bacteria) as foreign pathogens.",
+      {
+        "entities": [
+          [
+            33,
+            38,
+            "METAPHOR"
+          ],
+          [
+            43,
+            50,
+            "METAPHOR"
+          ],
+          [
+            111,
+            118,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ],
+    [
+      "In particular, how different receptors at the surface of immune cells respond to the presence of either antigen or pathogen, and how these responses are regulated at a subcellular level.",
+      {
+        "entities": [
+          [
+            70,
+            77,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ],
+    [
+      "Consequently, CD8 T cells lost their ability to kill, as if they only had guns without the bullets.",
+      {
+        "entities": [
+          [
+            48,
+            52,
+            "METAPHOR"
+          ],
+          [
+            74,
+            78,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ],
+    [
+      "This system detects a wide range of external biological influences, organisms will protect the body from infections, bacteria, viruses to parasites, and destroy other foreign substances and destroy them from healthy organism cells and tissues to continue to function as usual.",
+      {
+        "entities": [
+          [
+            167,
+            174,
+            "METAPHOR"
+          ],
+          [
+            190,
+            197,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ],
+    [
+      "DCs sense microbial stimuli through pathogen-recognition receptors (PRRs) and decode, integrate, and present information derived from such stimuli to T cells, thus stimulating immune responses.",
+      {
+        "entities": [
+          [
+            4,
+            9,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ],
+    [
+      "As it protects against foreign pathogens and controls inflammation it eliminates certain tumour cells and, consequently, the link between immunosuppression and increased cancer risk is widely established.",
+      {
+        "entities": [
+          [
+            23,
+            30,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ],
+    [
+      "It has also got a varied arsenal of killing mechanisms to battle intruders and mutant cells.",
+      {
+        "entities": [
+          [
+            36,
+            43,
+            "METAPHOR"
+          ],
+          [
+            58,
+            64,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ],
+    [
+      "In the human body, the immune system acts as \"the army\" that fights against \"the enemy\" from outside.",
+      {
+        "entities": [
+          [
+            50,
+            54,
+            "METAPHOR"
+          ],
+          [
+            81,
+            87,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ],
+    [
+      "Macrophages are versatile, multitasking and very plastic components of the innate immune system. One can look at them as the Swiss Army Knife of the body.",
+      {
+        "entities": [
+          [
+            136,
+            141,
+            "METAPHOR"
+          ]
+        ]
+      }
+    ]
+  ]
+}
