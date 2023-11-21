@@ -2,15 +2,17 @@
 
 import json
 import nltk
-nltk.download('punkt')
+
+nltk.download("punkt")
 from nltk.tokenize import word_tokenize
 
-with open('../data/spacy_annotations.json', 'r') as file:
+with open("../data/spacy_annotations.json", "r") as file:
     spacy_annotations = json.load(file)
 
+
 def convert_to_hf(spacy_ann_object):
-    classes = spacy_ann_object['classes']
-    annotations = spacy_ann_object['annotations']
+    classes = spacy_ann_object["classes"]
+    annotations = spacy_ann_object["annotations"]
 
     # CREATE TAG DICTIONARY
     tag_count = len(classes)
@@ -26,15 +28,12 @@ def convert_to_hf(spacy_ann_object):
 
     for annotation in annotations:
         sentence = annotation[0]
-        entities = annotation[1]['entities']
+        entities = annotation[1]["entities"]
 
         letter_tokens = [*sentence.lower()]
-        word_tokens = sentence.lower().split(' ')
+        word_tokens = sentence.lower().split(" ")
 
-        hf_sentence = {
-            "tokens": [],
-            "ner_tags": []
-        }
+        hf_sentence = {"tokens": [], "ner_tags": []}
 
         # for entity in entities:
         #     start_index = entity[0]
@@ -52,14 +51,15 @@ def convert_to_hf(spacy_ann_object):
             ner_tag = tag_dictionary.get(tag)
 
             token = word_tokens[i]
-            hf_sentence['tokens'].append(token)
-            hf_sentence['ner_tags'].append(ner_tag)
-        
+            hf_sentence["tokens"].append(token)
+            hf_sentence["ner_tags"].append(ner_tag)
+
         hf_sentences.append(hf_sentence)
 
     return hf_sentences
 
+
 hf_data = convert_to_hf(spacy_annotations)
 
-with open('../data/hf_annotations.json', 'w') as json_file:
+with open("../data/hf_annotations.json", "w") as json_file:
     json.dump(hf_data, json_file)
