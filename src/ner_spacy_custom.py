@@ -2,26 +2,16 @@ import spacy
 import json
 from spacy.tokens import DocBin
 from sklearn.model_selection import train_test_split
-
+import pickle
 
 def main():
     annotations = json.load(open("../data/spacy_annotations.json", "r"))
     annotations = annotations["annotations"]
     train, test = train_test_split(annotations, test_size=0.33)
-    with open("../data/spacy_test.csv", "w") as file:
-        file.write("str,ents\n")
-        for item in test:
-            out_str = f"\"{item[0]}\","
-            spans = item[1]["entities"]
-            span_length = len(spans)
-            for i in range(span_length):
-                if i == span_length - 1:
-                    out_str += f"{spans[i][2]}"
-                else:
-                    out_str += f"{spans[i][2]}/"
-            file.write(out_str + "\n")
+    with open("../data/test_pickle", "wb") as file:
+        pickle.dump(test,file=file)
     train, dev = train_test_split(train, test_size=0.2)
-    print(len(train),len(dev))
+    print(len(train), len(dev))
     # print(train, test)
     nlp = spacy.blank("en")
     db = DocBin()
@@ -37,7 +27,7 @@ def main():
                     skip_entity = True
                     break
             if start == end:
-                skip_entity = True 
+                skip_entity = True
             if skip_entity:
                 continue
 
@@ -72,8 +62,8 @@ def main():
                     skip_entity = True
                     break
             if start == end:
-                skip_entity = True 
-            
+                skip_entity = True
+
             if skip_entity:
                 continue
 
@@ -108,7 +98,7 @@ def main():
                     skip_entity = True
                     break
             if start == end:
-                skip_entity = True 
+                skip_entity = True
             if skip_entity:
                 continue
 
