@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Repo specifics
+spacy/output/
+spacy/*.spacy
+data/*
