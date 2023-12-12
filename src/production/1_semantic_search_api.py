@@ -15,7 +15,7 @@ query = "immune system"
 # fields to retrieve
 fields = "title,abstract,isOpenAccess"
 # querying from 2010 and onwards result in 100-200k papers, which creates a file too large for github
-url = f"http://api.semanticscholar.org/graph/v1/paper/search/bulk?query={query}&fields={fields}&year=2020-"
+url = f"http://api.semanticscholar.org/graph/v1/paper/search/bulk?query={query}&fields={fields}&year=2022-"
 
 r = requests.get(url).json()
 total_docs = r["total"]
@@ -75,7 +75,7 @@ if total_docs > 0:
 
 # sanity check
 if retrieved > 0:
-    with open(f"../data/paper_abstracts.json", "w+") as file:
+    with open(f"../../data/paper_abstracts.json", "w+") as file:
         file.write(document_content)
     print(f"Done! Retrieved {retrieved} papers total")
 else:
