@@ -57,6 +57,7 @@ while True:
             document_content += ",\n"
     if "token" not in r:
         break
+<<<<<<< HEAD:src/1_semantic_search_api.py
     # retry using token to paginate more results, each REST call return a 1000 items
     resp = requests.get(f"{url}&token={r['token']}")
     r = resp.json()
@@ -68,6 +69,17 @@ while True:
 document_content = document_content[
     0:-2
 ]  # this is ugly but otherwise format will be wack
+||||||| parent of 76aca96 (add code for spacy pipeline):src/semantic_search_api.py
+    #retry using token to paginate more results, each REST call return a 1000 items
+    r = requests.get(f"{url}&token={r['token']}").json()
+document_content = document_content[0:-2] #this is ugly but otherwise format will be wack 
+=======
+    # retry using token to paginate more results, each REST call return a 1000 items
+    r = requests.get(f"{url}&token={r['token']}").json()
+    document_content = document_content[
+        0:-2
+    ]  # this is ugly but otherwise format will be wack
+>>>>>>> 76aca96 (add code for spacy pipeline):src/semantic_search_api.py
 if total_docs > 0:
     document_content += "\n]"
 
