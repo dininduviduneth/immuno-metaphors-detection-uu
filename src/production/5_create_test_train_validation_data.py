@@ -5,10 +5,10 @@ from sklearn.model_selection import train_test_split
 import pickle
 
 def main():
-    annotations = json.load(open("../data/spacy_annotations.json", "r"))
+    annotations = json.load(open("../../data/spacy_annotations.json", "r"))
     annotations = annotations["annotations"]
     train, test = train_test_split(annotations, test_size=0.33)
-    with open("../data/test_pickle", "wb") as file:
+    with open("../../data/test_pickle", "wb") as file:
         pickle.dump(test,file=file)
     train, dev = train_test_split(train, test_size=0.2)
     print(len(train), len(dev))
@@ -47,7 +47,7 @@ def main():
                 ents.append(span)
         doc.ents = ents
         db.add(doc)
-    db.to_disk("../spacy/train.spacy")
+    db.to_disk("../../spacy/train.spacy")
     nlp = spacy.blank("en")
     db = DocBin()
     for text, data in dev:
@@ -83,7 +83,7 @@ def main():
                 ents.append(span)
         doc.ents = ents
         db.add(doc)
-    db.to_disk("../spacy/test.spacy")
+    db.to_disk("../../spacy/test.spacy")
     nlp = spacy.blank("en")
     db = DocBin()
     for text, data in test:
@@ -118,7 +118,7 @@ def main():
                 ents.append(span)
         doc.ents = ents
         db.add(doc)
-    db.to_disk("../spacy/validation.spacy")
+    db.to_disk("../../spacy/validation.spacy")
 
 
 if __name__ == "__main__":

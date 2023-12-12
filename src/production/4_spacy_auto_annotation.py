@@ -1,7 +1,7 @@
 import json
 import re
 from helpers import metaphors
-with open("../data/sentences.json", "r") as file:
+with open("../../data/sentences.json", "r") as file:
     lines = json.load(file)
 
 
@@ -56,10 +56,10 @@ to_text_file = []
 for annotation in combined_annotations:
     to_text_file.append(annotation[0])
 
-with open("../data/spacy_annotations.json", "w") as json_file:
+with open("../../data/spacy_annotations.json", "w") as json_file:
     json.dump(spacy_annotations, json_file)
 
-with open("../data/spacy_feed.txt", "w") as f:
+with open("../../data/spacy_feed.txt", "w") as f:
     for text in to_text_file:
         f.write(text)
         f.write("\n")

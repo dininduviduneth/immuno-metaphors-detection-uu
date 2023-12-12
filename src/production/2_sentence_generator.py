@@ -3,7 +3,7 @@
 import json
 from helpers import split_sentences, metaphors
 
-with open("../data/paper_abstracts.json", "r") as f:
+with open("../../data/paper_abstracts.json", "r") as f:
     data = json.load(f)
 
 sentences = []
@@ -23,5 +23,5 @@ for paper in data:
 
 print("Extracted " + str(len(sentences)) + " sentences!")
 
-with open("../data/sentences.json", "w") as json_file:
+with open("../../data/sentences.json", "w") as json_file:
     json.dump(sentences, json_file)

@@ -2,7 +2,7 @@
 
 import json
 
-with open('../data/sentences.json', 'r') as file:
+with open('../../data/sentences.json', 'r') as file:
     data = json.load(file)
 
 to_text_file = []
@@ -22,7 +22,7 @@ for item in data:
                 to_text_file.append(sentence)
                 group_of_four = []
 
-with open('../data/spacy_feed.txt', 'w') as f:
+with open('../../data/spacy_feed.txt', 'w') as f:
     for text in to_text_file:
         f.write(text)
         f.write('\n')

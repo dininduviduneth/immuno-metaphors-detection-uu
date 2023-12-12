@@ -4,10 +4,10 @@ import pandas as pd
 import pickle
 
 def main():
-    file = open("../data/test_pickle", "rb")
+    file = open("../../data/test_pickle", "rb")
     test = pickle.load(file)
     file.close()
-    nlp = spacy.load("../spacy/output/model-best")
+    nlp = spacy.load("../../spacy/output/model-best")
     tp = 0 
     fp = 0
     tn = 0
