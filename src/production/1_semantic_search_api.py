@@ -15,7 +15,7 @@ query = "immune system"
 # fields to retrieve
 fields = "title,abstract,isOpenAccess"
 # querying from 2010 and onwards result in 100-200k papers, which creates a file too large for github
-url = f"http://api.semanticscholar.org/graph/v1/paper/search/bulk?query={query}&fields={fields}&year=2010-"
+url = f"http://api.semanticscholar.org/graph/v1/paper/search/bulk?query={query}&fields={fields}&year=2020-"
 
 r = requests.get(url).json()
 total_docs = r["total"]
@@ -58,8 +58,6 @@ while True:
             document_content += ",\n"
     if "token" not in r:
         break
-<<<<<<< HEAD:src/1_semantic_search_api.py
-<<<<<<< HEAD:src/1_semantic_search_api.py
     # retry using token to paginate more results, each REST call return a 1000 items
     resp = requests.get(f"{url}&token={r['token']}")
     r = resp.json()
@@ -71,30 +69,7 @@ while True:
 document_content = document_content[
     0:-2
 ]  # this is ugly but otherwise format will be wack
-||||||| parent of 76aca96 (add code for spacy pipeline):src/semantic_search_api.py
-    #retry using token to paginate more results, each REST call return a 1000 items
-||||||| c40e965:src/semantic_search_api.py
-    #retry using token to paginate more results, each REST call return a 1000 items
-=======
-    # retry using token to paginate more results, each REST call return a 1000 items
->>>>>>> a53af634d71c8ff998e665d6d26a7abe0fb9027f:src/semantic_search_api.py
-    r = requests.get(f"{url}&token={r['token']}").json()
-<<<<<<< HEAD:src/1_semantic_search_api.py
-document_content = document_content[0:-2] #this is ugly but otherwise format will be wack 
-=======
-    # retry using token to paginate more results, each REST call return a 1000 items
-    r = requests.get(f"{url}&token={r['token']}").json()
-    document_content = document_content[
-        0:-2
-    ]  # this is ugly but otherwise format will be wack
->>>>>>> 76aca96 (add code for spacy pipeline):src/semantic_search_api.py
-||||||| c40e965:src/semantic_search_api.py
-document_content = document_content[0:-2] #this is ugly but otherwise format will be wack 
-=======
-    document_content = document_content[
-        0:-2
-    ]  # this is ugly but otherwise format will be wack
->>>>>>> a53af634d71c8ff998e665d6d26a7abe0fb9027f:src/semantic_search_api.py
+
 if total_docs > 0:
     document_content += "\n]"
 

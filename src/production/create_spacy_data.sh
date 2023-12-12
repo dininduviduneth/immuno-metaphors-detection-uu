@@ -8,3 +8,6 @@ echo "Ran general sentence annotator"
 echo "Running spacy annotator"
 python3 4_spacy_auto_annotation.py
 echo "Ran spacy annotator"
+echo "Running spacy annotator"
+python3 5_create_test_train_validation_data.py 
+echo "Ran spacy annotator"
