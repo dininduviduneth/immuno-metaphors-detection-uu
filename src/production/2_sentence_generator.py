@@ -10,9 +10,9 @@ sentences = []
 
 for paper in data:
     abstract = paper.get("abstract")
-    abs_sentences = split_sentences(abstract)  # sent_tokenize(abstract)
+    abs_sentences = split_sentences(abstract)
     for sentence in abs_sentences:
-        if len(sentence) < 512:
+        if len(sentence) < 512: #check max token length before handling sentence
             temp = {"sentence": sentence, "metaphors": [], "has_metaphor": 0}
             for metaphor in metaphors:
                 if metaphor.lower() in sentence.lower():

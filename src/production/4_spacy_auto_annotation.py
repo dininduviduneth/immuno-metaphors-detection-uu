@@ -22,12 +22,10 @@ def generate_annotations(lines):
         for token in tokens:
             if token in metaphors:
                 entity = [cursor, cursor + len(token), "MET"]
-            else:
-                entity = [cursor, cursor + len(token), "O"]
 
-            cursor += len(token) + 1
-            annotation[1]["entities"].append(entity)
+                annotation[1]["entities"].append(entity)
                 
+            cursor += len(token) + 1
         if line["has_metaphor"] == 1:
             met_annotations.append(annotation)
         else:
@@ -40,15 +38,13 @@ met_annotations, non_met_annotations = generate_annotations(lines)
 
 combined_annotations = []
 
-#TODO Incerase range to be dynamics based on size of document
-for i in range(25000):
-    if i % 3 == 0:
-        combined_annotations.append(met_annotations[i])
-    else:
-        combined_annotations.append(non_met_annotations[i])
+combined_annotations = []
+for i in range(len(met_annotations)):
+    start, stop = i*3, (i+1)*3
+    combined_annotations.append(met_annotations[i])
+    combined_annotations.extend(non_met_annotations[start:stop])
 
-print(combined_annotations[0])
-classes = ["O", "MET"]
+classes = ["MET"]
 spacy_annotations = {"classes": classes, "annotations": combined_annotations}
 
 to_text_file = []

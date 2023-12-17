@@ -2,6 +2,7 @@ import spacy
 from spacy import displacy
 import pandas as pd
 import pickle
+import random
 
 def main():
     file = open("../../data/test_pickle", "rb")
@@ -12,9 +13,13 @@ def main():
     fp = 0
     tn = 0
     fn = 0
-    total = len(test) 
+    num_samples = random.randint(10,30)
+    total = len(test)
+    sample_index = random.randint(num_samples,total)
+    sample_range = (sample_index, sample_index + num_samples)
+    print(sample_range)
     print(f"Will iterate over {total} items")
-    for item in test:
+    for idx, item in enumerate(test):
         sentence = item[0]
         ents = item[1]
         ents = ents['entities']
@@ -27,6 +32,8 @@ def main():
         for ent in ents:
             start, end, label = ent
             ent_set_true.append((sentence[start:end], label))
+        if sample_range[0] < idx < sample_range[1]:
+            print(f"{sentence} - (pred: {ent_set_pred}, true: {ent_set_true})")
         if ent_set_true == ent_set_pred:
             if len(ent_set_pred) == 0:
                 tn += 1
