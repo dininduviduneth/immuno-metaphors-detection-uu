@@ -39,3 +39,133 @@ This script hits ```http://api.semanticscholar.org/graph/v1/paper/search/bulk?qu
 This JSON document can be used in the next script which is ```2_sentence_generator.py```.
 
 ## 2. Splitting abstract texts into sentences (file: ```2_sentence_generator.py```)
+
+This script breaks each abstract into individual sentences and searches for any metaphorical keywords given in ```helpers.py``` and marks the sentences which contains a keyword as ```has_metaphor: 1```, if not ```has_metaphor: 0```.
+
+The saves the sentences in a JSON document in an array of the following format.
+
+```
+{
+        "sentence": "<SENTENCE>",
+        "metaphors": [
+            "<metaphor 1>",
+            "<metaphor 2>"
+        ],
+        "has_metaphor": 1
+}
+```
+
+## 3/4. Autogenerating spacy annotations
+
+For our model, we require the data to be in the ```spacy annotations format```. This scripts consumes the sentences generated from the previous script and auto-annotate them based on the presence of metaphorical keywords. It also has the configurability to change the proportions of the metaphorical and non-metaphorical sentences we use for training.
+
+An example of a generated spacy annotation is as follows:
+
+```
+[
+    "the immune system is composed of organs, tissues, and cells tasked with providing protection from invading pathogens.",
+    {
+        "entities": [
+            [
+                0,
+                3,
+                "O"
+            ],
+            [
+                4,
+                10,
+                "O"
+            ],
+            [
+                11,
+                17,
+                "O"
+            ],
+            [
+                18,
+                20,
+                "O"
+            ],
+            [
+                21,
+                29,
+                "O"
+            ],
+            [
+                30,
+                32,
+                "O"
+            ],
+            [
+                33,
+                40,
+                "O"
+            ],
+            [
+                41,
+                49,
+                "O"
+            ],
+            [
+                50,
+                53,
+                "O"
+            ],
+            [
+                54,
+                59,
+                "O"
+            ],
+            [
+                60,
+                66,
+                "O"
+            ],
+            [
+                67,
+                71,
+                "O"
+            ],
+            [
+                72,
+                81,
+                "O"
+            ],
+            [
+                82,
+                92,
+                "O"
+            ],
+            [
+                93,
+                97,
+                "O"
+            ],
+            [
+                98,
+                106,
+                "MET"
+            ],
+            [
+                107,
+                117,
+                "O"
+            ]
+        ]
+    }
+]
+```
+
+This can be re-used to generate additional tags (or manually annotate) using the following graphical tool --> [Spacy Online NER Annotator](https://tecoholic.github.io/ner-annotator/).
+
+## 5. Creating train, test and validation datasets
+
+This script splits the data into train, test and validation and saves them in the required format of the model.
+
+## 6. Training the model
+
+This shell script will train the model from the generated datasets and save it for later use.
+
+## 7. Use the model for performace measurement
+
+This script will measure and provide the performance of the trained model.
